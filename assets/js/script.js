@@ -15,7 +15,7 @@ $(document).ready(function () {
      $('#messageForm').on('submit',function(event){
         event.preventDefault();
         let form_data = $(this).serialize();
-        console.log(form_data);
+        
     
         $.ajax({
             type: "post",
