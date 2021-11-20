@@ -71,7 +71,7 @@
       </div>
       <div class="row text-center justify-content-center mb-5">
         <div class="col-lg-6">
-          <p>I was born in Kendal on April 27, 1998, Muslim. Graduated with Bachelor degree from Informatics Engineering
+          <p>I was born in Kendal on April 27, 1998, Moslem. Graduated with Bachelor degree from Informatics Engineering
             at Dian Nuswantoro University Semarang. Has experience in the field of web-based application development,
             also has experience in solving problems in the field of computers and networks. Have a curiosity about
             something related to IT and do a small experiment on it. </p>
